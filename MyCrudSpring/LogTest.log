@@ -1,0 +1,2 @@
+2014-07-02 08:31:32,019 [INFO ] support.XmlWebApplicationContext - Closing WebApplicationContext for namespace 'spring-servlet': startup date [Tue Jul 01 17:41:32 CDT 2014]; root of context hierarchy
+2014-07-02 08:31:32,169 [INFO ] support.DefaultListableBeanFactory - Destroying singletons in org.springframework.beans.factory.support.DefaultListableBeanFactory@7206b8a6: defining beans [handlerMapping,/addCustomerPage.html,/add.html,/lista.html,/update.html,/delete.html,viewResolver]; root of factory hierarchy

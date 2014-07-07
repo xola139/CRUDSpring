@@ -1,0 +1,88 @@
+2014-07-01 17:33:31,658 [INFO ] servlet.DispatcherServlet - FrameworkServlet 'spring': initialization started
+2014-07-01 17:33:31,746 [INFO ] support.XmlWebApplicationContext - Refreshing WebApplicationContext for namespace 'spring-servlet': startup date [Tue Jul 01 17:33:31 CDT 2014]; root of context hierarchy
+2014-07-01 17:33:31,840 [INFO ] xml.XmlBeanDefinitionReader - Loading XML bean definitions from ServletContext resource [/WEB-INF/spring-servlet.xml]
+2014-07-01 17:33:32,522 [INFO ] support.DefaultListableBeanFactory - Pre-instantiating singletons in org.springframework.beans.factory.support.DefaultListableBeanFactory@2c137a23: defining beans [handlerMapping,/addCustomerPage.html,/add.html,/lista.html,/update.html,/delete.html,viewResolver]; root of factory hierarchy
+2014-07-01 17:33:32,553 [INFO ] handler.BeanNameUrlHandlerMapping - Mapped URL path [/addCustomerPage.html] onto handler '/addCustomerPage.html'
+2014-07-01 17:33:32,554 [INFO ] handler.BeanNameUrlHandlerMapping - Mapped URL path [/add.html] onto handler '/add.html'
+2014-07-01 17:33:32,554 [INFO ] handler.BeanNameUrlHandlerMapping - Mapped URL path [/lista.html] onto handler '/lista.html'
+2014-07-01 17:33:32,555 [INFO ] handler.BeanNameUrlHandlerMapping - Mapped URL path [/update.html] onto handler '/update.html'
+2014-07-01 17:33:32,555 [INFO ] handler.BeanNameUrlHandlerMapping - Mapped URL path [/delete.html] onto handler '/delete.html'
+2014-07-01 17:33:33,214 [INFO ] servlet.DispatcherServlet - FrameworkServlet 'spring': initialization completed in 1556 ms
+2014-07-01 17:36:11,134 [INFO ] support.ClassPathXmlApplicationContext - Refreshing org.springframework.context.support.ClassPathXmlApplicationContext@7f9289a7: startup date [Tue Jul 01 17:36:11 CDT 2014]; root of context hierarchy
+2014-07-01 17:36:11,145 [INFO ] xml.XmlBeanDefinitionReader - Loading XML bean definitions from class path resource [Spring-Module.xml]
+2014-07-01 17:36:11,478 [INFO ] xml.XmlBeanDefinitionReader - Loading XML bean definitions from class path resource [database/Spring-Datasource.xml]
+2014-07-01 17:36:11,673 [INFO ] xml.XmlBeanDefinitionReader - Loading XML bean definitions from class path resource [customer/Spring-Customer.xml]
+2014-07-01 17:36:11,877 [INFO ] support.DefaultListableBeanFactory - Pre-instantiating singletons in org.springframework.beans.factory.support.DefaultListableBeanFactory@6098b14d: defining beans [dataSource,customerDAO,customerSimpleDAO]; root of factory hierarchy
+2014-07-01 17:36:12,048 [INFO ] datasource.DriverManagerDataSource - Loaded JDBC driver: oracle.jdbc.driver.OracleDriver
+2014-07-01 17:36:53,416 [INFO ] support.ClassPathXmlApplicationContext - Refreshing org.springframework.context.support.ClassPathXmlApplicationContext@52f51309: startup date [Tue Jul 01 17:36:53 CDT 2014]; root of context hierarchy
+2014-07-01 17:36:53,434 [INFO ] xml.XmlBeanDefinitionReader - Loading XML bean definitions from class path resource [Spring-Module.xml]
+2014-07-01 17:36:53,703 [INFO ] xml.XmlBeanDefinitionReader - Loading XML bean definitions from class path resource [database/Spring-Datasource.xml]
+2014-07-01 17:36:54,018 [INFO ] xml.XmlBeanDefinitionReader - Loading XML bean definitions from class path resource [customer/Spring-Customer.xml]
+2014-07-01 17:36:54,171 [INFO ] support.DefaultListableBeanFactory - Pre-instantiating singletons in org.springframework.beans.factory.support.DefaultListableBeanFactory@d42c77b: defining beans [dataSource,customerDAO,customerSimpleDAO]; root of factory hierarchy
+2014-07-01 17:36:54,182 [INFO ] datasource.DriverManagerDataSource - Loaded JDBC driver: oracle.jdbc.driver.OracleDriver
+2014-07-01 17:38:02,181 [INFO ] support.ClassPathXmlApplicationContext - Refreshing org.springframework.context.support.ClassPathXmlApplicationContext@301d88d4: startup date [Tue Jul 01 17:38:02 CDT 2014]; root of context hierarchy
+2014-07-01 17:38:02,184 [INFO ] xml.XmlBeanDefinitionReader - Loading XML bean definitions from class path resource [Spring-Module.xml]
+2014-07-01 17:38:02,438 [INFO ] xml.XmlBeanDefinitionReader - Loading XML bean definitions from class path resource [database/Spring-Datasource.xml]
+2014-07-01 17:38:02,478 [INFO ] xml.XmlBeanDefinitionReader - Loading XML bean definitions from class path resource [customer/Spring-Customer.xml]
+2014-07-01 17:38:02,541 [INFO ] support.DefaultListableBeanFactory - Pre-instantiating singletons in org.springframework.beans.factory.support.DefaultListableBeanFactory@2c09f7be: defining beans [dataSource,customerDAO,customerSimpleDAO]; root of factory hierarchy
+2014-07-01 17:38:02,542 [INFO ] datasource.DriverManagerDataSource - Loaded JDBC driver: oracle.jdbc.driver.OracleDriver
+2014-07-01 17:38:08,539 [INFO ] support.ClassPathXmlApplicationContext - Refreshing org.springframework.context.support.ClassPathXmlApplicationContext@6c0103d2: startup date [Tue Jul 01 17:38:08 CDT 2014]; root of context hierarchy
+2014-07-01 17:38:08,541 [INFO ] xml.XmlBeanDefinitionReader - Loading XML bean definitions from class path resource [Spring-Module.xml]
+2014-07-01 17:38:08,632 [INFO ] xml.XmlBeanDefinitionReader - Loading XML bean definitions from class path resource [database/Spring-Datasource.xml]
+2014-07-01 17:38:08,681 [INFO ] xml.XmlBeanDefinitionReader - Loading XML bean definitions from class path resource [customer/Spring-Customer.xml]
+2014-07-01 17:38:08,726 [INFO ] support.DefaultListableBeanFactory - Pre-instantiating singletons in org.springframework.beans.factory.support.DefaultListableBeanFactory@5b96bcbd: defining beans [dataSource,customerDAO,customerSimpleDAO]; root of factory hierarchy
+2014-07-01 17:38:08,727 [INFO ] datasource.DriverManagerDataSource - Loaded JDBC driver: oracle.jdbc.driver.OracleDriver
+2014-07-01 17:38:11,290 [INFO ] support.ClassPathXmlApplicationContext - Refreshing org.springframework.context.support.ClassPathXmlApplicationContext@3d701229: startup date [Tue Jul 01 17:38:11 CDT 2014]; root of context hierarchy
+2014-07-01 17:38:11,293 [INFO ] xml.XmlBeanDefinitionReader - Loading XML bean definitions from class path resource [Spring-Module.xml]
+2014-07-01 17:38:11,586 [INFO ] xml.XmlBeanDefinitionReader - Loading XML bean definitions from class path resource [database/Spring-Datasource.xml]
+2014-07-01 17:38:11,656 [INFO ] xml.XmlBeanDefinitionReader - Loading XML bean definitions from class path resource [customer/Spring-Customer.xml]
+2014-07-01 17:38:11,710 [INFO ] support.DefaultListableBeanFactory - Pre-instantiating singletons in org.springframework.beans.factory.support.DefaultListableBeanFactory@791169e9: defining beans [dataSource,customerDAO,customerSimpleDAO]; root of factory hierarchy
+2014-07-01 17:38:11,713 [INFO ] datasource.DriverManagerDataSource - Loaded JDBC driver: oracle.jdbc.driver.OracleDriver
+2014-07-01 17:39:22,037 [INFO ] support.ClassPathXmlApplicationContext - Refreshing org.springframework.context.support.ClassPathXmlApplicationContext@119d9bf2: startup date [Tue Jul 01 17:39:22 CDT 2014]; root of context hierarchy
+2014-07-01 17:39:22,051 [INFO ] xml.XmlBeanDefinitionReader - Loading XML bean definitions from class path resource [Spring-Module.xml]
+2014-07-01 17:39:22,190 [INFO ] xml.XmlBeanDefinitionReader - Loading XML bean definitions from class path resource [database/Spring-Datasource.xml]
+2014-07-01 17:39:22,228 [INFO ] xml.XmlBeanDefinitionReader - Loading XML bean definitions from class path resource [customer/Spring-Customer.xml]
+2014-07-01 17:39:22,278 [INFO ] support.DefaultListableBeanFactory - Pre-instantiating singletons in org.springframework.beans.factory.support.DefaultListableBeanFactory@7f0e8369: defining beans [dataSource,customerDAO,customerSimpleDAO]; root of factory hierarchy
+2014-07-01 17:39:22,279 [INFO ] datasource.DriverManagerDataSource - Loaded JDBC driver: oracle.jdbc.driver.OracleDriver
+2014-07-01 17:39:32,844 [INFO ] support.ClassPathXmlApplicationContext - Refreshing org.springframework.context.support.ClassPathXmlApplicationContext@2cee3ca9: startup date [Tue Jul 01 17:39:32 CDT 2014]; root of context hierarchy
+2014-07-01 17:39:32,846 [INFO ] xml.XmlBeanDefinitionReader - Loading XML bean definitions from class path resource [Spring-Module.xml]
+2014-07-01 17:39:33,096 [INFO ] xml.XmlBeanDefinitionReader - Loading XML bean definitions from class path resource [database/Spring-Datasource.xml]
+2014-07-01 17:39:33,286 [INFO ] xml.XmlBeanDefinitionReader - Loading XML bean definitions from class path resource [customer/Spring-Customer.xml]
+2014-07-01 17:39:33,360 [INFO ] support.DefaultListableBeanFactory - Pre-instantiating singletons in org.springframework.beans.factory.support.DefaultListableBeanFactory@52ee705c: defining beans [dataSource,customerDAO,customerSimpleDAO]; root of factory hierarchy
+2014-07-01 17:39:33,361 [INFO ] datasource.DriverManagerDataSource - Loaded JDBC driver: oracle.jdbc.driver.OracleDriver
+2014-07-01 17:39:39,879 [INFO ] support.ClassPathXmlApplicationContext - Refreshing org.springframework.context.support.ClassPathXmlApplicationContext@5655a144: startup date [Tue Jul 01 17:39:39 CDT 2014]; root of context hierarchy
+2014-07-01 17:39:39,881 [INFO ] xml.XmlBeanDefinitionReader - Loading XML bean definitions from class path resource [Spring-Module.xml]
+2014-07-01 17:39:40,020 [INFO ] xml.XmlBeanDefinitionReader - Loading XML bean definitions from class path resource [database/Spring-Datasource.xml]
+2014-07-01 17:39:40,098 [INFO ] xml.XmlBeanDefinitionReader - Loading XML bean definitions from class path resource [customer/Spring-Customer.xml]
+2014-07-01 17:39:40,179 [INFO ] support.DefaultListableBeanFactory - Pre-instantiating singletons in org.springframework.beans.factory.support.DefaultListableBeanFactory@258ca56f: defining beans [dataSource,customerDAO,customerSimpleDAO]; root of factory hierarchy
+2014-07-01 17:39:40,181 [INFO ] datasource.DriverManagerDataSource - Loaded JDBC driver: oracle.jdbc.driver.OracleDriver
+2014-07-01 17:40:06,589 [INFO ] support.ClassPathXmlApplicationContext - Refreshing org.springframework.context.support.ClassPathXmlApplicationContext@1b130d55: startup date [Tue Jul 01 17:40:06 CDT 2014]; root of context hierarchy
+2014-07-01 17:40:06,590 [INFO ] xml.XmlBeanDefinitionReader - Loading XML bean definitions from class path resource [Spring-Module.xml]
+2014-07-01 17:40:06,653 [INFO ] xml.XmlBeanDefinitionReader - Loading XML bean definitions from class path resource [database/Spring-Datasource.xml]
+2014-07-01 17:40:06,704 [INFO ] xml.XmlBeanDefinitionReader - Loading XML bean definitions from class path resource [customer/Spring-Customer.xml]
+2014-07-01 17:40:06,820 [INFO ] support.DefaultListableBeanFactory - Pre-instantiating singletons in org.springframework.beans.factory.support.DefaultListableBeanFactory@703b0d70: defining beans [dataSource,customerDAO,customerSimpleDAO]; root of factory hierarchy
+2014-07-01 17:40:06,821 [INFO ] datasource.DriverManagerDataSource - Loaded JDBC driver: oracle.jdbc.driver.OracleDriver
+2014-07-01 17:40:13,373 [INFO ] support.ClassPathXmlApplicationContext - Refreshing org.springframework.context.support.ClassPathXmlApplicationContext@1982902f: startup date [Tue Jul 01 17:40:13 CDT 2014]; root of context hierarchy
+2014-07-01 17:40:13,376 [INFO ] xml.XmlBeanDefinitionReader - Loading XML bean definitions from class path resource [Spring-Module.xml]
+2014-07-01 17:40:13,532 [INFO ] xml.XmlBeanDefinitionReader - Loading XML bean definitions from class path resource [database/Spring-Datasource.xml]
+2014-07-01 17:40:13,642 [INFO ] xml.XmlBeanDefinitionReader - Loading XML bean definitions from class path resource [customer/Spring-Customer.xml]
+2014-07-01 17:40:13,704 [INFO ] support.DefaultListableBeanFactory - Pre-instantiating singletons in org.springframework.beans.factory.support.DefaultListableBeanFactory@3d98764: defining beans [dataSource,customerDAO,customerSimpleDAO]; root of factory hierarchy
+2014-07-01 17:40:13,705 [INFO ] datasource.DriverManagerDataSource - Loaded JDBC driver: oracle.jdbc.driver.OracleDriver
+2014-07-01 17:40:14,142 [INFO ] support.ClassPathXmlApplicationContext - Refreshing org.springframework.context.support.ClassPathXmlApplicationContext@6a75c5d3: startup date [Tue Jul 01 17:40:14 CDT 2014]; root of context hierarchy
+2014-07-01 17:40:14,144 [INFO ] xml.XmlBeanDefinitionReader - Loading XML bean definitions from class path resource [Spring-Module.xml]
+2014-07-01 17:40:14,264 [INFO ] xml.XmlBeanDefinitionReader - Loading XML bean definitions from class path resource [database/Spring-Datasource.xml]
+2014-07-01 17:40:14,286 [INFO ] xml.XmlBeanDefinitionReader - Loading XML bean definitions from class path resource [customer/Spring-Customer.xml]
+2014-07-01 17:40:14,345 [INFO ] support.DefaultListableBeanFactory - Pre-instantiating singletons in org.springframework.beans.factory.support.DefaultListableBeanFactory@2f9930ae: defining beans [dataSource,customerDAO,customerSimpleDAO]; root of factory hierarchy
+2014-07-01 17:40:14,346 [INFO ] datasource.DriverManagerDataSource - Loaded JDBC driver: oracle.jdbc.driver.OracleDriver
+2014-07-01 17:41:24,297 [INFO ] support.XmlWebApplicationContext - Closing WebApplicationContext for namespace 'spring-servlet': startup date [Tue Jul 01 17:33:31 CDT 2014]; root of context hierarchy
+2014-07-01 17:41:24,310 [INFO ] support.DefaultListableBeanFactory - Destroying singletons in org.springframework.beans.factory.support.DefaultListableBeanFactory@2c137a23: defining beans [handlerMapping,/addCustomerPage.html,/add.html,/lista.html,/update.html,/delete.html,viewResolver]; root of factory hierarchy
+2014-07-01 17:41:32,102 [INFO ] servlet.DispatcherServlet - FrameworkServlet 'spring': initialization started
+2014-07-01 17:41:32,273 [INFO ] support.XmlWebApplicationContext - Refreshing WebApplicationContext for namespace 'spring-servlet': startup date [Tue Jul 01 17:41:32 CDT 2014]; root of context hierarchy
+2014-07-01 17:41:32,482 [INFO ] xml.XmlBeanDefinitionReader - Loading XML bean definitions from ServletContext resource [/WEB-INF/spring-servlet.xml]
+2014-07-01 17:41:32,789 [INFO ] support.DefaultListableBeanFactory - Pre-instantiating singletons in org.springframework.beans.factory.support.DefaultListableBeanFactory@7206b8a6: defining beans [handlerMapping,/addCustomerPage.html,/add.html,/lista.html,/update.html,/delete.html,viewResolver]; root of factory hierarchy
+2014-07-01 17:41:32,862 [INFO ] handler.BeanNameUrlHandlerMapping - Mapped URL path [/addCustomerPage.html] onto handler '/addCustomerPage.html'
+2014-07-01 17:41:32,863 [INFO ] handler.BeanNameUrlHandlerMapping - Mapped URL path [/add.html] onto handler '/add.html'
+2014-07-01 17:41:32,866 [INFO ] handler.BeanNameUrlHandlerMapping - Mapped URL path [/lista.html] onto handler '/lista.html'
+2014-07-01 17:41:32,866 [INFO ] handler.BeanNameUrlHandlerMapping - Mapped URL path [/update.html] onto handler '/update.html'
+2014-07-01 17:41:32,866 [INFO ] handler.BeanNameUrlHandlerMapping - Mapped URL path [/delete.html] onto handler '/delete.html'
+2014-07-01 17:41:33,124 [INFO ] servlet.DispatcherServlet - FrameworkServlet 'spring': initialization completed in 1022 ms
