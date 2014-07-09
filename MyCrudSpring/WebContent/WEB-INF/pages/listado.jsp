@@ -15,7 +15,7 @@
 
 	</head>
 	<body>
-		<h1>Holy llista</h1>
+		<h1>Lista</h1>
 		
  <div class="container-fluid">   
     
@@ -34,12 +34,12 @@
       <table class="table table-bordered">
         <thead>
           <tr>
-            <th>#</th>
-            <th>Table heading</th>
-            <th>Table heading</th>
-            <th>Table heading</th>
-            <th>Table heading</th>
-            <th>Table heading</th>
+            <th>id</th>
+            <th>First Name</th>
+            <th>Password</th>
+            <th>Name complete</th>
+            <th>Level</th>
+            <th>Action</th>
           </tr>
         </thead>
         <tbody>

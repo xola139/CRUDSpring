@@ -12,7 +12,7 @@
 
 	</head>
 	<body>
-		<h1>Holy</h1>
+		<h1>Nuevo</h1>
 		
  <div class="container-fluid">   
     
@@ -35,19 +35,19 @@
 		    </div>
 		  </div>
 		  <div class="form-group">
-		    <label for="inputEmail3" class="col-sm-2 control-label">Last Name</label>
+		    <label for="inputEmail3" class="col-sm-2 control-label">Password</label>
 		    <div class="col-sm-10">
 		    	<input type="text" class="form-control" placeholder="Text input" name="password" id="password">
 		    </div>
 		  </div>
 		  <div class="form-group">
-		    <label for="inputEmail3" class="col-sm-2 control-label">LastLogin</label>
+		    <label for="inputEmail3" class="col-sm-2 control-label">Name complete</label>
 		    <div class="col-sm-10">
 		    	<input type="text" class="form-control" placeholder="Text input" name="nombrecompleto" id="nombrecompleto">
 		    </div>
 		  </div>
 		  <div class="form-group">
-		    <label for="inputEmail3" class="col-sm-2 control-label">Comments</label>
+		    <label for="inputEmail3" class="col-sm-2 control-label">Level</label>
 		    <div class="col-sm-10">
 		    	<input type="text" class="form-control" placeholder="Text input" name="nivel" id="nivel">
 		    </div>

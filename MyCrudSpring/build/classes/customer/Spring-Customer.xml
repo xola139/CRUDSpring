@@ -7,8 +7,6 @@ http://www.springframework.org/schema/beans/spring-beans-2.5.xsd">
 		<property name="dataSource" ref="dataSource" />
 	</bean>
 	
-	<bean id="customerSimpleDAO" class="com.kardumen.customer.dao.impl.SimpleJdbcCustomerDAO">
-		<property name="dataSource" ref="dataSource" />
-	</bean>
+
 	
 </beans>
