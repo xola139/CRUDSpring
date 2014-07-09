@@ -8,9 +8,9 @@ Vista del una lista de registros:
 
 ![Settings Window](https://raw.githubusercontent.com/xola139/CRUDSpring/master/MyCrudSpring/WebContent/img/screen.png
 )
-Lo pudes descargar ,importar y deplegar  en tu IDE favorito.Los desplieges de prueba fueron realizados con jetty 8.1 y Tomcat 7.
+Lo pudes descargar ,importar y desplegar  en tu IDE favorito.Los despliegues de prueba fueron realizados con jetty 8.1 y Tomcat 7.
 
-Antes de hacer el despliegue poner atención a la configuración de la conexión a la base de datos esta en Spring-Datasource.xml
+Antes de hacer el despliegue poner atención a la configuración de conexión a la base de datos esta en Spring-Datasource.xml
 	
 Coloco el script de la tabla para generarla en el gestor de base de datos oracle.
 CREATE TABLE LOSUSUARIOS
