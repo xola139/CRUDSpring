@@ -16,9 +16,9 @@ http://www.springframework.org/schema/beans/spring-beans-2.5.xsd">
 	
 	<bean id="dataSource" class="org.springframework.jdbc.datasource.DriverManagerDataSource">
 		<property name="driverClassName" value="oracle.jdbc.driver.OracleDriver" />
-		<property name="url" value="jdbc:oracle:thin:@15.128.25.69:1526:BNT03D" />
-		<property name="username" value="monitoreo" />
-		<property name="password" value="#monitor1" />
+		<property name="url" value="jdbc:oracle:thin:@127.0.0.1:1526:MYDATABASE" />
+		<property name="username" value="usuer" />
+		<property name="password" value="#userpass" />
 	</bean>
 	
 
