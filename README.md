@@ -3,8 +3,8 @@ CRUDSpring
 
 Proyecto que contiene el simple CRUD con spring.
 
-https://raw.githubusercontent.com/xola139/CRUDSpring/master/MyCrudSpring/WebContent/img/screen.png
 
+Vista del una lista de registros:
 
 ![Settings Window](https://raw.githubusercontent.com/xola139/CRUDSpring/master/MyCrudSpring/WebContent/img/screen.png
 )
